@@ -9,4 +9,5 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-04-webxr-desert-demo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-05-github-publish-webxr
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-06-webxr-from-scratch
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-07-360-video-webxr
 - 
